@@ -5,24 +5,23 @@ title: "Members"
 image:
   feature: main.png
 ---
-###Hermes Yeh  
+### Hermes Yeh  
 Principal Investigator
   
-###Pamela Yeh
+### Pamela Yeh
 Laboratory Manager
 
-###Dr. Steven Miller  
+### Steven Miller  
 Postdoctoral Fellow
   
-###Laurie Delatour  
+### Laurie Delatour  
 Graduate Student  
 
-###Stephanie Lee  
-Graduate Student
+### Stephanie Lee  
+Graduate Student      
   
 
-
-##Alumni
+## Alumni
 Alex Skorput  
 Lan Guo  
 Michelle Sama  
