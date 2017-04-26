@@ -6,4 +6,6 @@ image:
   feature: main.png
 ---
 
-pubs
+pub1 
+pub2
+pub3
