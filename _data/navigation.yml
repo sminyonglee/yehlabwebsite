@@ -1,26 +1,26 @@
 # Site navigation links
 
 - title: About
-  url: /test/
+  url: /about/
   excerpt: "lalala"
   image:
 
 - title: Research
-  url: /test/
+  url: /research/
   excerpt: "lalala"
   image:
 
 - title: Members
-  url: /test/
+  url: /members/
   excerpt: "lalala"
   image:
 
 - title: Media
-  url: /test/
+  url: /media/
   excerpt: "lalala"
   image:
 
 - title: Publications
-  url: /test/
+  url: /publications/
   excerpt: "lalala"
   image:
